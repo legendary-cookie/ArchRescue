@@ -1,0 +1,13 @@
+base
+cloud-init
+linux
+mkinitcpio
+mkinitcpio-archiso
+openssh
+pv
+syslinux
+virtualbox-guest-utils-nox
+broadcom-wl-dkms
+btrfs-progs
+vim
+reiserfsprogs
