@@ -11,3 +11,6 @@ broadcom-wl-dkms
 btrfs-progs
 vim
 reiserfsprogs
+xfce4
+xorg-server
+gparted
